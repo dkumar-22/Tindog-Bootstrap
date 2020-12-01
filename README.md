@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog Site Made using Angela Yu's Course
